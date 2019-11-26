@@ -1,0 +1,13 @@
+@font-face {
+  font-family: EnglishFont;
+  src: url('TitilliumWeb-Bold-3.ttf');
+}
+@font-face {
+  font-family: ChineseFont;
+  src: url('HYZhuZiBiXinTiW-2.ttf');
+}
+
+@font-face {
+  font-family: yuantiFont;
+  src: url('JingDianWeiBeiJian-1.ttf');
+}
